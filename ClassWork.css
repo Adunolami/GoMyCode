@@ -1,0 +1,140 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color:#fffaf4;
+    background-color: rgb(#faf5ef, #fbf6f0,#fdf8f2, #fffaf4) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 52px sora, sans-serif;
+    
+}
+
+body{
+    padding-top: 60px
+}
+
+ nav{
+    background: white;
+    border-bottom: 1px solid #f9f4ee;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    /* z-index: ;   */
+ }
+
+ /*.A{
+    width: 12rem;
+    height: 3rem;
+    border: 5px solid saddlebrown;
+    padding-left: 1rem;
+    padding-top: 3rem;
+    margin-top:-20px;
+    
+ }
+ */
+ .AA{
+    width: 12rem;
+    height: 3rem;
+    border: ;
+    padding-left: 1rem;
+    padding-top: 3rem;
+    margin-top:-20px;
+
+ }
+ 
+ ul li{
+    list-style-type: none;
+    float:left;
+    margin: 18px;
+    font-size: 14px sora, sans-serif;
+    
+ }
+ 
+ .A, .B, .BB{
+    display:inline-block;
+    border: ;
+ }
+
+ .B{
+    margin-right: 12rem  ;
+    display: inline-block;
+    width: 40rem;
+    padding: ;
+    font-size: 14px sora;
+ }
+ a {
+    display: inline-block;
+    word-spacing: 3px;
+ }
+ .BB{
+    float:inline-end;
+    width: 5rem;
+    padding-top: 3rem;
+    border: ;
+ }
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+color: red;
+}
+
+a:link{
+    color: black;
+}
+
+a:active{
+    color:red;
+}
+
+.C{
+    text-align:center;
+    border: ;
+    font-family: 52px sora, sans-serif;
+    font-weight: 600;
+}
+
+    
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 52px;
+
+}
+ 
+.CC{
+    padding-left: 0.5rem;
+    width: ;
+    padding-top: rem;
+}
+.E{
+    border: ;
+    text-align: center;
+     
+}
+h3{
+    border: 1px solid;
+    border-radius: 12px;
+    display:inline-table; 
+    margin: 10px;
+    padding: 30px; 
+    /* text-align: center; */
+}
+h3:hover{
+cursor: pointer;
+color: red;
+}
+.F{
+    margin-top: 3rem;
+    text-align: center;
+     
+}
+
+
+input{
+    background-color: black;
+    color:#faf5ef;
+    font-weight: 900;
+    text-align: center;
+    
+}
